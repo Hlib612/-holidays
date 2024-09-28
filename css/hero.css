@@ -1,0 +1,8 @@
+.hero{
+    .hero{
+        background-image: url("../images/background.jpg");
+        height: 542px;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+}
